@@ -17,6 +17,7 @@ list_of_files=[
     f"src/Predictive credit line adjustment system/pipelines/training_pipeline.py",
     f"src/Predictive credit line adjustment system/pipelines/prediction_pipeline.py",
     f"src/Predictive credit line adjustment system/exception.py",
+    f"src/Predictive credit line adjustment system/logger.py",
     f"src/Predictive credit line adjustment system/utils.py",
     "app.py",
     "Dockerfile",
