@@ -4,21 +4,21 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="Predictive credit line adjustment system"
+project_name="Predictive_credit_line_adjustment_system"
 
 list_of_files=[
-    f"src/Predictive credit line adjustment system/__init__.py",
-    f"src/Predictive credit line adjustment system/components/__init__.py",
-    f"src/Predictive credit line adjustment system/components/data_ingestion.py",
-    f"src/Predictive credit line adjustment system/components/data_transformation.py",
-    f"src/Predictive credit line adjustment system/components/model_trainer.py",
-    f"src/Predictive credit line adjustment system/components/model_monitering.py",
-    f"src/Predictive credit line adjustment system/pipelines/__init__.py",
-    f"src/Predictive credit line adjustment system/pipelines/training_pipeline.py",
-    f"src/Predictive credit line adjustment system/pipelines/prediction_pipeline.py",
-    f"src/Predictive credit line adjustment system/exception.py",
-    f"src/Predictive credit line adjustment system/logger.py",
-    f"src/Predictive credit line adjustment system/utils.py",
+    f"src/Predictive_credit_line_adjustment_system/__init__.py",
+    f"src/Predictive_credit_line_adjustment_system/components/__init__.py",
+    f"src/Predictive_credit_line_adjustment_system/components/data_ingestion.py",
+    f"src/Predictive_credit_line_adjustment_system/components/data_transformation.py",
+    f"src/Predictive_credit_line_adjustment_system/components/model_trainer.py",
+    f"src/Predictive_credit_line_adjustment_system/components/model_monitering.py",
+    f"src/Predictive_credit_line_adjustment_system/pipelines/__init__.py",
+    f"src/Predictive_credit_line_adjustment_system/pipelines/training_pipeline.py",
+    f"src/Predictive_credit_line_adjustment_system/pipelines/prediction_pipeline.py",
+    f"src/Predictive_credit_line_adjustment_system/exception.py",
+    f"src/Predictive_credit_line_adjustment_system/logger.py",
+    f"src/Predictive_credit_line_adjustment_system/utils.py",
     "app.py",
     "Dockerfile",
     "requirements.txt",
