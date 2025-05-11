@@ -12,3 +12,6 @@ joblib
 streamlit
 category_encoders
 scipy
+python-dotenv
+mysql-connector-python
+pymysql
